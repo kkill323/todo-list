@@ -16,8 +16,7 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.3.4"
   }
-  "devDependencies": {},
-  "keywords": [],
-  "description": ""
+"description": ""
+
 
 }
