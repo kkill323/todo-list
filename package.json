@@ -5,10 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-  }
-  "engines": {
-     "node": "16.14.0"
-   }
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +17,8 @@
     "mongoose": "^5.3.4"
   },
 
-
+  "engines": {
+     "node": "16.14.0"
+   }
 
 }
